@@ -57,7 +57,8 @@
         "typeinfo": "c",
         "windowsx.h": "c",
         "vulkan_platform.h": "c",
-        "renderer_frontend.h": "c"
+        "renderer_frontend.h": "c",
+        "game.h": "c"
     },
     "C_Cpp.default.compilerPath": "C:/Program Files/LLVM/bin/clang.exe"
 }
